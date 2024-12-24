@@ -1,0 +1,1 @@
+let heading1= document.querySelector(".h1");
